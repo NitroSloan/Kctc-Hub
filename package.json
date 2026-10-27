@@ -1,0 +1,13 @@
+{
+  "name": "kctc-hub",
+  "version": "2.0.0",
+  "description": "KCTC Hub Classroom Connect Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
